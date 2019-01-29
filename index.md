@@ -1,30 +1,32 @@
-## Welcome to GitHub Pages
+## Profile
+Hi, I am Rishi Laddha. I love Statistics, Finance, Management and have keen interst in inventroy and logistics.
+Currently, I am advancing my skills in Machine Learning and Supply Chain Management at Texas A&M University, College Station.( Expected grauation May 2019)
+What i aspire to do is optimize the supply chain problems that industry is facing with the aid of 'Data' by implementing Machine Learning models and automating the ERP systems. 
 
-You can use the [editor on GitHub](https://github.com/riladdha/RishiLaddha/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Education
 ```markdown
-Syntax highlighted code block
+# Texas A&M University, College Station, TX
+## Master of Engineering in Industrial Engineering (May,2019)
+CourseWork: Engineering Data Analysis, Production & Inventory Control, Simulation Methods, Advanced Quality Control, Survey of Optimization, Lean thinking and Lean Manufacturing, Applied information sceince in python, Human operator in complex system, Engineering Economics, Survey of Finance, Design & Analysis of Industrial Experiments, Regression Analysis.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+# Institute of Engineering & Technology DAVV, Indore, India
+## Bachelor of Engineering in Mechanical Engineering (May,2014)
+Coursework: Engineering Drawing, Thermodynamics, Dynamics of Machines, Strength of materials, IC Engines, Computer Sceince, Principle of management, Material Management, Production Control.
 
 [Link](url) and ![Image](src)
 ```
+
+### Skills
+
+### Work Experience
+
+### Academic Projects
+
+### Skills
+
+### Contact Information
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
