@@ -12,11 +12,6 @@ CourseWork: Engineering Data Analysis, Production & Inventory Control, Simulatio
 ### Institute of Engineering & Technology DAVV, Indore, India
 #### Bachelor of Engineering in Mechanical Engineering (May,2014)
 Coursework: Engineering Drawing, Thermodynamics, Dynamics of Machines, Strength of materials, IC Engines, Computer Sceince, Principle of management, Material Management, Production Control.
-```markdown
-
-
-[Link](url) and ![Image](src)
-```
 
 # Skills
 ERP System (SAP APO, SAP BI, Oracle)
