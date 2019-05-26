@@ -1,5 +1,5 @@
 # Profile
-Hi, I am Rishi Laddha. I love Statistics, Finance, Management and have keen interest in inventroy and logistics.
+Hi, I am Rishi Laddha. I love Statistics, Finance, Management and have keen interest in Data Analytics and Data Science.
 Currently, I am advancing my skills in Machine Learning and Supply Chain Management at Texas A&M University, College Station.( Expected grauation May 2019)
 What i aspire to do is optimize the supply chain problems that industry is facing with the aid of 'Data' by implementing Machine Learning models and automating the ERP systems. 
 
