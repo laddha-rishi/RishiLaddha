@@ -8,10 +8,6 @@ Let's connect and sprinkle some data-driven magic into our lives—one algorithm
 
 ---
 
-Sure, here's the version without using "guru":
-
----
-
 I've mastered ERP design, especially SAP and Anaplan, boosting supply/demand functionality. Certified in both.
 
 I'm a Tableau wiz, turning data into money-saving decisions. I hate mundane tasks, so I automate everything I can. SQL and Python? Check. I've built data architecture, complex queries, and automated processes, saving weeks of work.
