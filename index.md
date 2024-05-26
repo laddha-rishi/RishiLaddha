@@ -2,7 +2,9 @@
 
 Hey there! I'm Rishi Laddha, the guy who turned a love for crunching numbers into a master’s degree in Industrial Engineering from Texas A&M University, College Station, TX. Before that, I earned my bachelor's degree in Mechanical Engineering from the Institute of Engineering & Technology DAVV, Indore, India—because why stop at just one kind of engineering?
 
-When I'm not busy optimizing processes or making data do tricks, you’ll find me trying (and often failing) to apply Lean Thinking to my weekend chores. My friends think I'm crazy for believing that AI will save us from boring chores instead of plotting our doom. Spoiler alert: I'm still waiting for my AI vacuum to take over the world.
+When I'm not busy optimizing processes or making data do tricks, you’ll find me trying (and often failing) to apply Lean Thinking to my weekend chores. I'm still waiting for my AI vacuum to take over the world.
+
+My quest? To uncover the ultimate question (Hitchhiker’s Guide to the Galaxy style). Hint: It's not "What's for dinner?"
 
 Let's connect and sprinkle some data-driven magic into our lives—one algorithm at a time!
 
