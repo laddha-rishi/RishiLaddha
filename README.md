@@ -14,3 +14,5 @@ I'm an ERP design maestro, specializing in SAP and Anaplan, supercharging supply
 
 # 
 email: laddha.rishi@gmail.com
+
+web : https://laddha-rishi.github.io/RishiLaddha/ 
